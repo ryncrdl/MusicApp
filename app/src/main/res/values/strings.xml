@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mood-based Music APP</string>
+    <string name="caption">Make sure to center your face to detect emotion accurately</string>
+</resources>
